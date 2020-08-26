@@ -1,0 +1,467 @@
+y	typing.py	xdrlib.py	zipapp.py
+concurrent
+futures_base.py	thread.py
+process.py__init__.py__init__.py
+copyreg.py
+decimal.py
+difflib.py
+doctest.py
+filecmp.py
+fnmatch.py
+getpass.py
+gettext.py
+hashlib.py
+imaplib.py
+inspect.py
+keyword.py
+macpath.py
+mailbox.py
+mailcap.py
+nntplib.py
+numbers.py
+pathlib.py
+pkgutil.py
+profile.py
+pydoc_data	topics.py
+_pydoc.css__init__.py
+reprlib.py
+secrets.py
+smtplib.py
+tarfile.py
+turtledemo	nim.py
+tree.pychaos.pyclock.pypaint.pypeace.py	forest.py
+penrose.py
+turtle.cfg
+yinyang.py__init__.py__main__.pywikipedia.pybytedesign.pycolormixer.pylindenmayer.pyround_dance.pytwo_canvases.pyfractalcurves.pyminimal_hanoi.pyplanet_and_moon.pysorting_animate.py
+weakref.py
+zipfile.pyargparse.pyasynchat.pyasyncore.pycalendar.pycollections	abc.py__init__.pycolorsys.pycProfile.pydatetime.pyoperator.pyoptparse.pyplatform.pyplistlib.pysymtable.pytabnanny.pytempfile.pytextwrap.pytokenize.pywarnings.py_strptime.pyfileinput.pyformatter.pyfractions.pyfunctools.pyipaddress.pylinecache.pymimetypes.pyposixpath.pyselectors.pysre_parse.pysysconfig.pytelnetlib.pythreading.pytraceback.py__future__.py_pydecimal.pycompileall.pycontextlib.pynturl2path.pypy_compile.pystatistics.pystringprep.pysubprocess.pywebbrowser.py_bootlocale.py_markupbase.py_weakrefset.pyantigravity.pygenericpath.pymacurl2path.pypickletools.pyrlcompleter.pysre_compile.pytracemalloc.py_compression.py_osx_support.pyconfigparser.pymodulefinder.pymultiprocessingdummy__init__.pyconnection.py
+heap.py
+pool.py
+util.pyspawn.py	queues.py
+context.py
+process.py__init__.pymanagers.pyreduction.pyconnection.pyforkserver.pypopen_fork.pysynchronize.pysharedctypes.pyresource_sharer.pypopen_forkserver.pypopen_spawn_posix.pypopen_spawn_win32.pysemaphore_tracker.pysocketserver.py_dummy_thread.py_sitebuiltins.pysre_constants.py__phello__.foo.py_compat_pickle.pydummy_threading.py_collections_abc.py_threading_local.py	Anadyr	Aqtobe	Beirut	Brunei	Harbin	Hebron	Kuwait	Manila	Muscat	Riyadh	Saigon	Taipei	Tehran	Thimbu	Urumqi
+Baghdad
+Bahrain
+Bangkok
+Barnaul
+Bishkek
+Colombo
+Irkutsk
+Jakarta
+Karachi
+Kashgar
+Kolkata
+Kuching
+Magadan
+Nicosia
+Rangoon
+Tbilisi
+Thimphu
+Yakutsk
+YerevanAshgabatCalcuttaDamascusDushanbeIstanbulJayapuraKatmanduKhandygaMakassarSakhalinShanghaiTashkentTel_AvivUst-Nera	Ashkhabad	Chongqing	Chungking	Hong_Kong	Jerusalem	Kamchatka	Kathmandu	Pontianak	Pyongyang	Qyzylorda	Samarkand	Singapore	Vientiane
+Choibalsan
+Phnom_Penh
+Ulan_BatorHo_Chi_MinhKrasnoyarskNovosibirskUlaanbaatarVladivostokKuala_LumpurNovokuznetskSrednekolymskUjung_PandangYekaterinburgCubaEireGMT0IranW-SUZuluChileContinentalEasterIslandEgyptGMT+0GMT-0JapanLibya	AfricaJubaLomeAccraCairoCeutaDakarLagosTunis	Asmara	Asmera	Bamako	Bangui	Banjul	Bissau	Douala	Harare	Kigali	Luanda	Lusaka	Malabo	Maputo	Maseru	Niamey
+Abidjan
+Algiers
+Conakry
+Kampala
+Mbabane
+Nairobi
+TripoliBlantyreDjiboutiEl_AaiunFreetownGaboroneKhartoumKinshasaMonroviaNdjamenaSao_TomeTimbuktuWindhoek	Bujumbura	Mogadishu
+Casablanca
+Libreville
+Lubumbashi
+Nouakchott
+Porto-NovoAddis_AbabaBrazzavilleOuagadougouJohannesburgDar_es_Salaam	ArcticLongyearbyen	BrazilAcreEastWest	DeNoronha	CanadaYukon
+Central
+Eastern
+PacificAtlanticMountainNewfoundlandSaskatchewanEast-Saskatchewan	EuropeKievOsloRigaRomeKirovMaltaMinskParisSofiaVaduz	Athens	Berlin	Dublin	Jersey	Lisbon	London	Madrid	Monaco	Moscow	Prague	Samara	Skopje	Tirane	Vienna	Warsaw	Zagreb	Zurich
+Andorra
+Belfast
+Nicosia
+Tallinn
+Vatican
+VilniusBelgradeBrusselsBudapestBusingenChisinauGuernseyHelsinkiIstanbulSarajevoTiraspolUzhgorod	Amsterdam	Astrakhan	Bucharest	Gibraltar	Ljubljana	Mariehamn	Podgorica	Stockholm	Ulyanovsk	Volgograd
+Bratislava
+Copenhagen
+Luxembourg
+San_Marino
+Simferopol
+ZaporozhyeIsle_of_ManKaliningrad	IndianMaheCocos	Chagos	Comoro
+Mayotte
+ReunionMaldives	Christmas	Kerguelen	MauritiusAntananarivo	Israel	Mexico
+BajaSur
+General	BajaNorte	Navajo	Poland	Turkey
+AmericaAdakAtkaLimaNomeArubaBahiaBelemBoiseJujuySitkaThule	Belize	Bogota	Cancun	Cayman	Cuiaba	Dawson	Denver	Guyana	Havana	Inuvik	Juneau	La_Paz	Maceio	Manaus	Merida	Nassau	Panama	Recife	Regina	Virgin
+Antigua
+Caracas
+Cayenne
+Chicago
+Cordoba
+Creston
+Curacao
+Detroit
+Godthab
+Grenada
+Halifax
+IndianaKnoxVevay
+Marengo
+Winamac	Tell_City	Vincennes
+PetersburgIndianapolis
+Iqaluit
+Jamaica
+Knox_IN
+Managua
+Marigot
+Mendoza
+Moncton
+Nipigon
+Noronha
+Ojinaga
+Phoenix
+Rosario
+Tijuana
+Toronto
+Tortola
+YakutatAnguillaAsuncionAtikokanBarbadosDominicaEdmontonEirunepeEnsenadaKentucky
+Louisville
+MonticelloMazatlanMiquelonMontrealNew_YorkResoluteSantaremSantiagoShiprockSt_JohnsSt_KittsSt_LuciaWinnipeg	Anchorage	Araguaina	ArgentinaJujuySalta
+Cordoba
+Mendoza
+Tucuman
+UshuaiaLa_RiojaSan_JuanSan_Luis	CatamarcaBuenos_AiresRio_GallegosComodRivadavia	Boa_Vista	Catamarca	Chihuahua	Fortaleza	Glace_Bay	Goose_Bay	Guatemala	Guayaquil	Matamoros	Menominee	Monterrey	Sao_Paulo	St_Thomas	Vancouver
+Costa_Rica
+Fort_Wayne
+Grand_Turk
+Guadeloupe
+Hermosillo
+Kralendijk
+Louisville
+Martinique
+Metlakatla
+Montevideo
+Montserrat
+Paramaribo
+Porto_Acre
+Rio_Branco
+St_Vincent
+WhitehorseEl_SalvadorFort_NelsonLos_AngelesMexico_CityPangnirtungPorto_VelhoPuerto_RicoRainy_RiverTegucigalpaThunder_BayYellowknifeBlanc-SablonBuenos_AiresCampo_GrandeDanmarkshavnDawson_CreekIndianapolisNorth_Dakota	Beulah	Center	New_SalemRankin_InletSanta_IsabelScoresbysundCambridge_BayCoral_HarbourLower_PrincesPort_of_SpainSanto_DomingoSt_BarthelemySwift_CurrentBahia_BanderasPort-au-Prince
+CST6CDT
+EST5EDT
+GB-Eire
+Iceland
+Jamaica
+MST7MDT
+NZ-CHAT
+PacificYapApiaFijiGuamNiueTrukWakeChuukEfateNauruPalauSamoa	Easter	Kosrae	Majuro	Midway	Noumea	Ponape	Saipan	Tahiti	Tarawa	Wallis
+Chatham
+Fakaofo
+Gambier
+Norfolk
+PohnpeiAucklandFunafutiHonoluluJohnstonPitcairn	Enderbury	Galapagos	Kwajalein	Marquesas	Pago_Pago	Rarotonga	Tongatapu
+KiritimatiGuadalcanalBougainvillePort_Moresby
+PST8PDT
+SystemVAST4CST6EST5MST7PST8YST9HST10
+AST4ADT
+CST6CDT
+EST5EDT
+MST7MDT
+PST8PDT
+YST9YDTAtlanticFaroe	Azores	Canary	Faeroe
+Bermuda
+Madeira
+Stanley	Jan_Mayen	Reykjavik	St_Helena
+Cape_VerdeSouth_GeorgiaHongkongPortugal	AustraliaACTLHINSWWestEuclaNorthPerthSouth	Currie	Darwin	Hobart	SydneyAdelaideBrisbaneCanberraLindemanTasmaniaVictoria	Lord_Howe	Melbourne
+Queensland
+YancowinnaBroken_Hill	Greenwich	Kwajalein	Singapore	Universal
+AntarcticaCaseyDavisSyowaTroll	Mawson	Palmer	Vostok
+McMurdo
+Rothera	Macquarie
+South_PoleDumontDUrville
+http1.0http.tclpkgIndex.tclauto.tclencodingbig5.enc	ascii.enc	cp437.enc	cp737.enc	cp775.enc	cp850.enc	cp852.enc	cp855.enc	cp857.enc	cp860.enc	cp861.enc	cp862.enc	cp863.enc	cp864.enc	cp865.enc	cp866.enc	cp869.enc	cp874.enc	cp932.enc	cp936.enc	cp949.enc	cp950.enc
+cp1250.enc
+cp1251.enc
+cp1252.enc
+cp1253.enc
+cp1254.enc
+cp1255.enc
+cp1256.enc
+cp1257.enc
+cp1258.enc
+ebcdic.enc
+euc-cn.enc
+euc-jp.enc
+euc-kr.enc
+gb1988.enc
+gb2312.enc
+koi8-r.enc
+koi8-u.enc
+symbol.encgb12345.enciso2022.encjis0201.encjis0208.encjis0212.encksc5601.encmacThai.enctis-620.encdingbats.encmacGreek.encmacJapan.encmacRoman.encshiftjis.enciso8859-1.enciso8859-2.enciso8859-3.enciso8859-4.enciso8859-5.enciso8859-6.enciso8859-7.enciso8859-8.enciso8859-9.encgb2312-raw.enciso2022-jp.enciso2022-kr.enciso8859-10.enciso8859-13.enciso8859-14.enciso8859-15.enciso8859-16.encmacIceland.encmacRomania.encmacTurkish.encmacUkraine.encmacCentEuro.encmacCroatian.encmacCyrillic.encmacDingbats.encinit.tclsafe.tcltclIndexword.tcl	clock.tcl
+parray.tclhistory.tclpackage.tcltix8.4.3prefTK.csTK.fs	TK.csc	TK.fsc
+Blue.cs
+Gray.csBlue.cscGray.cscMakefileTkWin.csTkWin.fs	Bisque.cs	tixmkpref	TkWin.csc	TkWin.fsc
+10Point.fs
+12Point.fs
+14Point.fs
+Bisque.csc
+Old12Pt.fs
+Old14Pt.fs
+SGIGray.cs
+TixGray.cs10Point.fsc12Point.fsc14Point.fscSGIGray.cscTixGray.cscpkgIndex.tclWmDefault.csWmDefault.fsWmDefault.pyWmDefault.cscWmDefault.fscWmDefault.tclWmDefault.txtdemos	widget
+bitmaps
+tix.gifbold.xbmcode.xpmexit.xpmnetw.xbmnetw.xpm	about.xpm	leftj.xbm
+drivea.xbm
+drivea.xpm
+italic.xbm
+rightj.xbm
+select.xpmcapital.xbmcenterj.xbmfilebox.xbmfilebox.xpmjustify.xbmnetwork.xbmnetwork.xpmoptmenu.xpmcombobox.xbmcombobox.xpmharddisk.xbmharddisk.xpmunderlin.xbm
+samples
+Xpm.tclTree.tclXpm1.tcl	Meter.tcl	SText.tcl
+BtnBox.tcl
+CmpImg.tcl
+DirDlg.tcl
+HList1.tcl
+Sample.tcl
+Select.tcl
+SGrid0.tcl
+SGrid1.tcl
+SHList.tclBalloon.tclChkList.tclCmpImg1.tclCmpImg2.tclCmpImg3.tclCmpImg4.tclControl.tclDirList.tclDirTree.tclDynTree.tclFileDlg.tclFileEnt.tclListNBK.tclOptMenu.tclPopMenu.tclSHList2.tclStdBBox.tclSTList1.tclSTList2.tclSTList3.tclSWindow.tclAllSampl.tclArrowBtn.tclCObjView.tclComboBox.tclDragDrop.tclEditGrid.tclEFileDlg.tclLabEntry.tclLabFrame.tclNoteBook.tclPanedWin.tclSListBox.tcltclIndexMkChoose.tclMkDirLis.tclMkSample.tclMkScroll.tcltixwidgets.tcl	fs.tcl
+bitmapsdecr.xbmdrop.xbmfile.giffile.xbmfile.xpmincr.xbminfo.gifinfo.xpmplus.gifplus.xbmplus.xpmtick.xbm	ck_on.xbm	cross.xbm	minus.gif	minus.xbm	minus.xpm
+ck_def.xbm
+ck_off.xbm
+folder.gif
+folder.xbm
+folder.xpm
+system.xbmnetwork.xbmplusarm.gifplusarm.xbmplusarm.xpmresize1.xbmresize2.xbmrestore.xbmsrcfile.gifsrcfile.xbmsrcfile.xpmwarning.gifwarning.xpmact_fold.gifact_fold.xbmact_fold.xpmbalarrow.xbmcbxarrow.xbmharddisk.xbmhourglas.xbmmaximize.xbmminimize.xbmminusarm.gifminusarm.xbmminusarm.xpmno_entry.gifno_entry.xpmopenfile.xbmopenfold.gifopenfold.xbmopenfold.xpmtextfile.giftextfile.xbmtextfile.xpmhourglas.maskmktransgif.tcl
+Tix.tclGrid.tclInit.tclMakefileTree.tcl	Event.tcl	HList.tcl	Meter.tcl	SGrid.tcl	Shell.tcl	SText.tcl	tix84.dll	tix84.lib	TList.tcl	Utils.tcl	VTree.tcl	WInfo.tcl
+BtnBox.tcl
+Compat.tcl
+DirBox.tcl
+DirDlg.tcl
+Select.tcl
+SHList.tcl
+STList.tcl
+tix84g.dll
+tix84g.lib
+VStack.tclBalloon.tclChkList.tclConsole.tclControl.tclDefSchm.tclDialogS.tclDirList.tclDirTree.tclDtlList.tclFileBox.tclFileCbx.tclFileDlg.tclFileEnt.tclHListDD.tclLabWidg.tclListNBk.tclOldUtil.tclOptMenu.tclPopMenu.tclResizeH.tclSimpDlg.tclStatBar.tclStdBBox.tclSWidget.tclSWindow.tclVResize.tclCObjView.tclComboBox.tclDragDrop.tclEFileBox.tclEFileDlg.tclFloatEnt.tclIconView.tclLabEntry.tclLabFrame.tclMultView.tclNoteBook.tclPanedWin.tclpkgIndex.tclPrimitiv.tclSListBox.tclStackWin.tclStdShell.tclVariable.tcl	tk86t.lib
+tcl86t.lib
+tk86tg.libtcl86tg.libtclConfig.shtkstub86.libtclstub86.libtclooConfig.shlibspython3.lib_tkinter.libpython36.liblibpython36.aToolsdemo	ss1.py
+beer.py
+life.pyhanoi.pymcast.py	eiffel.py	markov.py	queens.py	redemo.py	vector.py
+rpython.pyrpythond.pysortvisu.pyi18n	msgfmt.pypygettext.pymakelocalealias.py	parser
+unparse.py	pyncheX
+rgb.txtxlicense.txt
+Main.py
+ColorDB.py
+pynche.pyw__init__.pywebsafe.txtChipViewer.pyListViewer.pyTextViewer.pywebcolors.txtStripViewer.pySwitchboard.pynamedcolors.txtPyncheWidget.pyTypeinViewer.pyDetailsViewer.pyhtml40colors.txtpyColorChooser.py
+scripts	lll.py
+2to3.py
+crlf.py
+diff.py
+h2py.py
+lfcr.py
+suff.pybyext.pyfixps.pyifdef.pyndiff.pypdeps.pyptags.pyrgrep.pyserve.pywhich.py	dutree.py	eptags.py	fixcid.py	fixdiv.py	google.py	md5sum.py	mkreal.py	nm2def.py	pydoc3.py	pyvenv.py	svneol.py
+abitype.py
+finddiv.py
+pathfix.py
+pindent.pycheckpip.pycheckpyc.pycopytime.pylinktree.pyobjgraph.pypysource.pyreindent.pytreesync.pyuntabify.pybyteyears.pydb2pickle.pyfixheader.pyfixnotice.pyhighlight.pypickle2db.pyrun_tests.pytexi2html.pyfind-uname.pygprof2html.pymake_ctype.pypatchcheck.pyanalyze_dxp.pycleanfuture.pycombinerefs.pyfindlinksto.pyupdate_file.pyfindnocoding.pymailerdaemon.pyreindent-rst.pywin_add2path.pyparseentities.pygenerate_opcode_h.pyimport_diagnostics.pyfind_recursionlimit.pyparse_html5_entities.pyget-remote-certificate.py
+includeast.h	accu.h	asdl.h	code.h	dtoa.h	eval.h	node.h	pgen.h
+ceval.h
+pyfpe.h
+pymem.h
+token.hbitset.hcodecs.himport.hobject.hopcode.hosdefs.hpyhash.hpymath.hpyport.hPython.hpytime.h	compile.h	errcode.h	grammar.h	marshal.h	objimpl.h	pyarena.h	pyctype.h	pydebug.h	pyexpat.h	pymacro.h	pystate.h	ucnhash.h
+abstract.h
+datetime.h
+graminit.h
+osmodule.h
+parsetok.h
+pyatomic.h
+pyconfig.h
+pydtrace.h
+pyerrors.h
+pygetopt.h
+pystrcmp.h
+pystrhex.h
+pystrtod.h
+pythread.h
+symtable.h
+warnings.hfileutils.hgenobject.hintrcheck.hpy_curses.hpycapsule.hpythonrun.hsetobject.hstructseq.hsysmodule.htraceback.htypeslots.hboolobject.hcellobject.hdictobject.henumobject.hfileobject.hfuncobject.hiterobject.hlistobject.hlongobject.hmodsupport.hpatchlevel.hPython-ast.hbltinmodule.hbytesobject.hclassobject.hdescrobject.hfloatobject.hframeobject.hlongintrepr.hmetagrammar.hodictobject.hpgenheaders.hpylifecycle.hpymacconfig.hrangeobject.hsliceobject.htupleobject.hmemoryobject.hmethodobject.hmoduleobject.hstructmember.hbytes_methods.hcomplexobject.hunicodeobject.hweakrefobject.hbytearrayobject.hnamespaceobject.hdynamic_annotations.h
+Scripts
+pip.exepip3.exe
+pip3.6.exeeasy_install.exeeasy_install-3.6.exeNEWS.txt
+python.exeLICENSE.txtpython3.dllpythonw.exepython36.dllvcruntime140.dll_datetime.py
+_ast.py
+_signal.py_codecs_iso2022.py_asyncio.py	_io.py
+_opcode.py_decimal.pyfaulthandler.py_multibytecodec.py
+_msi.py_asyncio.py
+_bz2.py
+_msi.py	select.py_tkinter.pywinsound.py_elementtree.py_testbuffer.py
+pyexpat.py_sqlite3.py_testcapi.py_lzma.py__init__.py_testmultiphase.py
+_socket.py_overlapped.py_testconsole.py_ctypes_test.py_testimportmultiple.py_hashlib.py_multiprocessing.pyunicodedata.py
+_ctypes.py
+_ssl.py_decimal.py_distutils_findvs.py	parser.py
+_locale.py_lzma.py
+Scripts
+_md5.py	_heapq.py_testconsole.py
+marshal.py
+zlib.py_weakref.py
+_csv.pywinsound.py_codecs_jp.pyzipimport.pybinascii.py
+math.py_testbuffer.py
+_lsprof.py_codecs_kr.py_hashlib.py_testcapi.py
+mmap.pyarray.py_warnings.pygc.py_codecs_cn.py
+_sre.py	winreg.pycmath.pyunicodedata.py_ctypes_test.py_overlapped.py
+_blake2.pybuiltins.pynt.py_sha1.py
+_bisect.py
+_imp.py_json.py
+audioop.py	select.py_sha3.py
+time.py_codecs_hk.py_elementtree.py_distutils_findvs.pyerrno.pyxxsubtype.py
+_sha256.py
+_ssl.py_sqlite3.py	sys.py
+_socket.py
+_random.py
+pyexpat.py
+_ctypes.py
+_struct.py	msvcrt.py
+_bz2.py_testmultiphase.py_tkinter.pyitertools.py_tracemalloc.py_operator.py_codecs_tw.py
+_thread.py_functools.py
+_pickle.py_multiprocessing.py_stat.py_symtable.py	atexit.py
+_winapi.py
+_sha512.py_testimportmultiple.py
+_codecs.py_collections.py
+_string.pyworkspace.xmljdk.table.xmlpackages.xmlpy_sdk_settings.xmlwindow.manager.xmlworkspace.xmlprofiles_settings.xmluntitled.imlmisc.xmlmodules.xmlvenv
+pyvenv.cfgLib
+Scripts
+Include	tcl8.6site-packagesinit.tcl	_lzma.pyd_tkinter.pyd	tk86t.dll_bz2.pydpythonw.exewinsound.pyd_ctypes.pyd_overlapped.pyd_testconsole.pyddeactivate.bat
+tcl86t.dll
+python.exe_ssl.pyd_elementtree.pyd_ctypes_test.pyd_testimportmultiple.pydactivate.batpython3.dll_msi.pyd_asyncio.pyd_testbuffer.pyd_sqlite3.pydvcruntime140.dllsqlite3.dll_hashlib.pyd
+select.pyd_testcapi.pyd_socket.pydActivate.ps1activate_testmultiphase.pydunicodedata.pyd_decimal.pyd_distutils_findvs.pydpyexpat.pydpython36.dll_multiprocessing.pydsetuptools-39.1.0-py3.6.eggpip-10.0.1-py3.6.eggEGG-INFOpip__main__.py	_internal
+_vendor__init__.pyhtml5libcachecontrol	six.py	packagingrequestsretrying.pypyparsing.py
+appdirs.py
+chardetlockfileipaddress.pycoloramapkg_resources
+certifi
+distlibprogress	distro.py
+urllib3	pytoml
+msgpackwebencodings__init__.pyidnaidnadata.pycodec.pyintranges.pyuts46data.py	compat.py__init__.py
+core.pypackage_data.py	parser.py	writer.py__init__.py
+core.py__main__.py
+cacert.pem__init__.py
+core.pysbcsgroupprober.pygb2312freq.py
+jisfreq.pyenums.pygb2312prober.pyeuckrfreq.py	jpcntx.pylangbulgarianmodel.pymbcharsetprober.py
+version.pyhebrewprober.pycp949prober.pylatin1prober.py	mbcssm.pyeuctwprober.pycharsetgroupprober.py__init__.pycliescprober.pybig5prober.pylanghungarianmodel.pysjisprober.pyeucjpprober.pylanggreekmodel.pylangturkishmodel.pysbcharsetprober.pycharsetprober.pylangthaimodel.pybig5freq.pyescsm.pyeuctwfreq.pyeuckrprober.pymbcsgroupprober.pylangcyrillicmodel.pycodingstatemachine.pyuniversaldetector.pyutf8prober.pychardistribution.py	compat.pylanghebrewmodel.pychardetect.py__init__.py
+t32.exe
+w64.exelocators.py
+scripts.pyindex.py
+util.pywheel.pydatabase.py
+markers.pyresources.py
+version.py
+w32.exemetadata.py	_backport
+t64.exe	compat.pymanifest.py__init__.py
+tarfile.pysysconfig.pysysconfig.cfg	shutil.py
+misc.py__init__.pyexceptions.py_version.pyfallback.py__init__.py_collections.pyexceptions.py	fields.pyresponse.pypackages
+contribconnection.pypoolmanager.pyutilconnectionpool.pyfilepost.py
+request.py__init__.pyconnection.py
+ssl_.pyretry.py	url.pyresponse.py
+timeout.py
+wait.pyselectors.py
+request.py__init__.py_securetransportntlmpool.pysocks.pysecuretransport.py__init__.pyappengine.pypyopenssl.pybindings.pylow_level.py__init__.pyordered_dict.py	backports	six.pyssl_match_hostname__init__.pymakefile.py__init__.py_implementation.py__init__.py
+ansi.pyansitowin32.py
+winterm.pywin32.pyinitialise.py__init__.py_tokenizer.pytreewalkers_ihatexml.py_trie_inputstream.py
+filters	_utils.pyconstants.pyserializer.pytreeadaptershtml5parser.py__init__.pytreebuilderspy.py_base.py	datrie.py__init__.pysanitizer.py
+lint.pyalphabeticalattributes.pywhitespace.pyoptionaltags.py
+base.pyinject_meta_charset.py__init__.py	dom.py	genshi.pyetree_lxml.pyetree.py
+base.py__init__.py	sax.py	genshi.py__init__.py	dom.pyetree_lxml.pyetree.py
+base.py__init__.pylinklockfile.pysqlitelockfile.pysymlinklockfile.pypidlockfile.py__init__.pymkdirlockfile.py
+helpers.py	bar.py
+counter.py
+spinner.py__init__.pycerts.pyadapters.pyexceptions.py_internal_utils.py
+cookies.pysessions.pypackages.pystatus_codes.py
+help.pyutils.pyhooks.py	models.py__version__.py
+auth.py	api.py	compat.py__init__.pystructures.pyspecifiers.py
+markers.pyutils.pyrequirements.py
+version.py
+_compat.py_structures.py__init__.py__about__.pycontroller.py
+_cmd.pyfilewrapper.py	cachesserialize.pyheuristics.py
+adapter.pycache.py	compat.py__init__.py
+wrapper.pyredis_cache.pyfile_cache.py__init__.pytests.pyx_user_defined.py	labels.pymklabels.py__init__.pypy31compat.py__init__.pydownload.py	modelscmdoptions.pyexceptions.pyvcslocations.pybasecommand.py
+resolve.pystatus_codes.pyindex.pywheel.pybuild_env.py
+operationspep425tags.pyutilsconfiguration.pycache.pycommands	compat.py__init__.pybaseparser.pyreqreq_file.pyreq_install.py
+req_set.pyreq_uninstall.py__init__.py	git.pymercurial.py	bazaar.pysubversion.py__init__.pyui.pytemp_dir.pyglibc.pypackaging.pysetuptools_build.py
+appdirs.pyoutdated.py	typing.py
+logging.pydeprecation.pyencoding.py	hashes.py
+misc.pyfilesystem.py__init__.pyindex.py__init__.pydownload.pycompletion.py
+show.py
+list.py
+help.pywheel.py	search.pycheck.pyuninstall.py
+install.pyconfiguration.py
+hash.py	freeze.py__init__.pycheck.py
+prepare.py	freeze.py__init__.pyentry_points.txttop_level.txtdependency_links.txtnot-zip-safePKG-INFOSOURCES.txtrequires.txtsetuptools.ptheasy-install.ptheasy_install.exeeasy_install-3.6.exeeasy_install-script.py
+pip3.6.exepip3-script.pyeasy_install.exe.manifestpip.exe.manifestpip3.exe.manifestpip3.6-script.pyeasy_install-3.6-script.py easy_install-3.6.exe.manifestpip3.exepip3.6.exe.manifestpip-script.py
+pip.exe
+5c74a75untitled.ideainspectionProfilessetuptools-39.1.0-py3.6.eggEGG-INFOPKG-INFOzip-safeSOURCES.txtrequires.txttop_level.txtentry_points.txtdependency_links.txt
+setuptools	extern__init__.py
+_vendor	six.py	packagingutils.py
+_compat.py
+markers.py
+version.py__init__.py__about__.pyspecifiers.py_structures.pyrequirements.py__init__.pypyparsing.py
+1689184529
+cli.exe
+command
+test.pyalias.pysdist.py	rotate.py	setopt.py	upload.py
+develop.py
+install.py__init__.pybuild_py.pyegg_info.pyregister.pysaveopts.pybdist_egg.pybdist_rpm.pybuild_ext.pydist_info.pybuild_clib.pypy36compat.pyinstall_lib.pyupload_docs.pyeasy_install.pybdist_wininst.pyinstall_scripts.pyinstall_egg_info.pylauncher manifest.xml
+dist.py
+glob.py
+gui.exe
+msvc.pyglibc.pywheel.py	config.py	launch.py	monkey.py
+cli-32.exe
+cli-64.exe
+depends.py
+gui-32.exe
+gui-64.exe
+sandbox.py
+version.py__init__.pydep_util.pyscript.tmplextension.pybuild_meta.pylib2to3_ex.pynamespaces.pypep425tags.pypy27compat.pypy31compat.pypy33compat.pypy36compat.pysite-patch.pyssl_support.pyarchive_util.pypackage_index.pyunicode_utils.pyscript (dev).tmplwindows_support.pypkg_resources	extern__init__.py
+_vendor	six.py	packagingutils.py
+_compat.py
+markers.py
+version.py__init__.py__about__.pyspecifiers.py_structures.pyrequirements.py
+appdirs.py__init__.pypyparsing.py__init__.pypy31compat.pyeasy_install.py	parser.py
+_locale.py_lzma.py
+Scripts
+_md5.py	_heapq.py_testconsole.py
+marshal.py
+zlib.py_weakref.py
+_csv.pywinsound.py_codecs_jp.pyzipimport.pybinascii.py
+math.py_testbuffer.py
+_lsprof.py_codecs_kr.py_hashlib.py_testcapi.py
+mmap.pyarray.py_warnings.pygc.py_codecs_cn.py
+_sre.py	winreg.pycmath.pyunicodedata.py_ctypes_test.py_overlapped.py
+_blake2.pybuiltins.pynt.py_sha1.py
+_bisect.py
+_imp.py_json.py
+audioop.py	select.py_sha3.py
+time.py_codecs_hk.py_elementtree.py_distutils_findvs.pyerrno.pyxxsubtype.py
+_sha256.py
+_ssl.py_sqlite3.py	sys.py
+_socket.py
+_random.py
+pyexpat.py
+_ctypes.py
+_struct.py	msvcrt.py
+_bz2.py_testmultiphase.py_tkinter.pyitertools.py_tracemalloc.py_operator.py_codecs_tw.py
+_thread.py_functools.py
+_pickle.py_multiprocessing.py_stat.py_symtable.py	atexit.py
+_winapi.py
+_sha512.py_testimportmultiple.py
+_codecs.py_collections.py
+_string.py_datetime.py
+_ast.py
+_signal.py_codecs_iso2022.py_asyncio.py	_io.py
+_opcode.py_decimal.pyfaulthandler.py_multibytecodec.py
+_msi.py_asyncio.py
+_bz2.py
+_msi.py	select.py_tkinter.pywinsound.py_elementtree.py_testbuffer.py
+pyexpat.py_sqlite3.py_testcapi.py_lzma.py__init__.py_testmultiphase.py
+_socket.py_overlapped.py_testconsole.py_ctypes_test.py_testimportmultiple.py_hashlib.py_multiprocessing.pyunicodedata.py
+_ctypes.py
+_ssl.py_decimal.py_distutils_findvs.pyHello WorldHello World.pydatabaseSettings.xmlrunner.layout.xml

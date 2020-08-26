@@ -1,0 +1,145 @@
+00:00:00.001764 main     VirtualBox COM Server 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.001766 main     Log opened 2020-04-27T17:06:49.562307100Z
+00:00:00.001767 main     Build Type: release
+00:00:00.001774 main     OS Product: Windows 10
+00:00:00.001775 main     OS Release: 10.0.18362
+00:00:00.001776 main     OS Service Pack: 
+00:00:00.042448 main     DMI Product Name: K501UX
+00:00:00.062473 main     DMI Product Version: 1.0       
+00:00:00.062898 main     Firmware type: UEFI
+00:00:00.063166 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.063549 main     Host RAM: 8084MB (7.8GB) total, 3360MB (3.2GB) available
+00:00:00.063555 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.063556 main     Process ID: 8488
+00:00:00.063556 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.144471          VirtualBox: object creation starts
+00:00:00.144829          Home directory: 'C:\Users\justi\.VirtualBox'
+00:00:00.144938          Installed Drivers:
+00:00:00.159298            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.6.37129)
+00:00:00.160039            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.6.37129)
+00:00:00.160645            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.6.37129)
+00:00:00.161222            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.6.37129)
+00:00:00.173775          Loading settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.179517          usbLibGetDevices: Starting USB device enumeration
+00:00:00.180920          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.180983          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.183214          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.183296          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb54b)
+00:00:00.183395          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2a)
+00:00:00.322207          netIfIsWireless: CreateFile on '\\.\{941FA032-818F-4DA3-952E-FE94AF8A5345}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.322977          netIfIsWireless: CreateFile on '\\.\{1C4DAC6F-C4AA-4367-9FB9-ABC523F6F76D}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.332667          HostDnsMonitor: initializing
+00:00:00.352906          HostDnsMonitor: updating information
+00:00:00.352939          HostDnsMonitor: old information
+00:00:00.352940            no server entries
+00:00:00.352941            no domain set
+00:00:00.352942            no search string entries
+00:00:00.352943          HostDnsMonitor: new information
+00:00:00.352943            server 1: 75.75.75.75
+00:00:00.352945            server 2: 75.75.76.76
+00:00:00.352946            domain: hsd1.md.comcast.net
+00:00:00.352946            no search string entries
+00:00:00.472263          VD: VDInit finished with VINF_SUCCESS
+00:00:00.489403          Loading settings file "C:\Users\justi\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:00:00.500461          VirtualBox: object created
+00:00:02.585764          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.600510          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:21.167801          Launched VM: 76639664 pid: 14628 (0x3924) frontend: GUI/Qt name: Xubuntu
+00:02:26.400666          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:02:26.876527          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:26.950688          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:27.052855          netIfIsWireless: CreateFile on '\\.\{941FA032-818F-4DA3-952E-FE94AF8A5345}' failed with rcWin=2 (0x2) - ignoring
+00:02:27.053455          netIfIsWireless: CreateFile on '\\.\{1C4DAC6F-C4AA-4367-9FB9-ABC523F6F76D}' failed with rcWin=2 (0x2) - ignoring
+00:06:18.019957 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:18.021315 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:06:18.021422 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:06:18.021690 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:10:24.389312 dns-monitor HostDnsMonitor: updating information
+00:10:24.389346 dns-monitor HostDnsMonitor: unchanged
+00:16:46.083909          Saving settings file "C:\Users\justi\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:23:11.196405 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:23:11.200049 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:23:11.200930 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:24:44.559723 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:24:44.561074 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:24:44.561151 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:24:44.561325 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:24:44.561361 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb54b)
+00:25:24.451211 dns-monitor HostDnsMonitor: updating information
+00:25:24.451236 dns-monitor HostDnsMonitor: unchanged
+00:40:24.514585 dns-monitor HostDnsMonitor: updating information
+00:40:24.514680 dns-monitor HostDnsMonitor: unchanged
+00:55:24.577906 dns-monitor HostDnsMonitor: updating information
+00:55:24.577928 dns-monitor HostDnsMonitor: unchanged
+01:10:24.641520 dns-monitor HostDnsMonitor: updating information
+01:10:24.641582 dns-monitor HostDnsMonitor: unchanged
+01:25:23.697946 dns-monitor HostDnsMonitor: updating information
+01:25:23.697968 dns-monitor HostDnsMonitor: unchanged
+01:40:23.751031 dns-monitor HostDnsMonitor: updating information
+01:40:23.751130 dns-monitor HostDnsMonitor: unchanged
+01:55:23.816967 dns-monitor HostDnsMonitor: updating information
+01:55:23.816992 dns-monitor HostDnsMonitor: unchanged
+02:10:23.885507 dns-monitor HostDnsMonitor: updating information
+02:10:23.885585 dns-monitor HostDnsMonitor: unchanged
+02:25:23.947002 dns-monitor HostDnsMonitor: updating information
+02:25:23.947024 dns-monitor HostDnsMonitor: unchanged
+02:40:23.986806 dns-monitor HostDnsMonitor: updating information
+02:40:23.986886 dns-monitor HostDnsMonitor: unchanged
+02:55:24.054229 dns-monitor HostDnsMonitor: updating information
+02:55:24.054254 dns-monitor HostDnsMonitor: unchanged
+03:10:24.090064 dns-monitor HostDnsMonitor: updating information
+03:10:24.090126 dns-monitor HostDnsMonitor: unchanged
+03:25:24.143641 dns-monitor HostDnsMonitor: updating information
+03:25:24.143679 dns-monitor HostDnsMonitor: unchanged
+03:37:09.461899          Saving settings file "C:\Users\justi\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+03:37:10.487350          Saving settings file "C:\Users\justi\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+03:37:45.853513 USBPROXY usbLibGetDevices: Starting USB device enumeration
+03:37:45.854856 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+03:37:45.854932 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+03:37:45.856123 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+03:37:48.107510 MainPower Host suspending: Paused 0 VMs
+06:23:43.153516 MainPower Host resumed: Resumed 0 VMs
+06:23:45.320084 dns-monitor HostDnsMonitor: updating information
+06:23:45.320105 dns-monitor HostDnsMonitor: unchanged
+06:23:53.631420 USBPROXY usbLibGetDevices: Starting USB device enumeration
+06:23:53.679735 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+06:23:53.679836 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+06:23:53.680275 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+06:23:55.360809 USBPROXY usbLibGetDevices: Starting USB device enumeration
+06:23:55.491172 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+06:23:55.492192 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+06:23:55.492595 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+06:23:56.161374 USBPROXY usbLibGetDevices: Starting USB device enumeration
+06:23:56.175563 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+06:23:56.175663 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+06:23:56.176281 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+06:38:45.989622 dns-monitor HostDnsMonitor: updating information
+06:38:45.989644 dns-monitor HostDnsMonitor: unchanged
+06:53:46.046251 dns-monitor HostDnsMonitor: updating information
+06:53:46.046328 dns-monitor HostDnsMonitor: unchanged
+07:08:46.092528 dns-monitor HostDnsMonitor: updating information
+07:08:46.092549 dns-monitor HostDnsMonitor: unchanged
+07:23:46.152971 dns-monitor HostDnsMonitor: updating information
+07:23:46.153037 dns-monitor HostDnsMonitor: unchanged
+07:38:46.231881 dns-monitor HostDnsMonitor: updating information
+07:38:46.231901 dns-monitor HostDnsMonitor: unchanged
+07:53:46.292225 dns-monitor HostDnsMonitor: updating information
+07:53:46.292297 dns-monitor HostDnsMonitor: unchanged
+08:08:46.349523 dns-monitor HostDnsMonitor: updating information
+08:08:46.349546 dns-monitor HostDnsMonitor: unchanged
+08:23:46.415448 dns-monitor HostDnsMonitor: updating information
+08:23:46.415507 dns-monitor HostDnsMonitor: unchanged
+08:38:46.485165 dns-monitor HostDnsMonitor: updating information
+08:38:46.485187 dns-monitor HostDnsMonitor: unchanged
+08:48:42.539680          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:42.579499          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:42.610073          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:42.645603          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:42.659539          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:42.682118          Saving settings file "C:\Users\justi\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:48:48.213074 main     VirtualBox: object deletion starts
+08:48:48.214389 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\justi\VirtualBox VMs\Xubuntu\Xubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:48:48.224004 main     HostDnsMonitor: shutting down ...
+08:48:48.224074 main     HostDnsMonitor: shut down
+08:48:48.231713 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+08:48:48.232947 main     VirtualBox: object deleted
